@@ -6,4 +6,14 @@ You can move the spaceship in four directions (right, left, up, and down) using 
 ## Objective
 To progress to **level 2**, you must **hit at least 5 enemies** and earn 5 points or more.
 
-Are you ready for the challenge and to conquer space? 🚀
+## New Features
+Two major improvements were added to the game:
+1. At all times, the player can see how many lives they have left during gameplay.
+2. To advance to the next level, the player must achieve a minimum of 5 points.
+
+## Play the Game
+You can play the game by clicking [here](https://adi-yohanan.itch.io/02-game).
+
+---
+
+**Submitted by:** Adi Yohanan 
